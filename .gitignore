@@ -1,0 +1,4 @@
+files/*
+
+!files/Example/
+!files/Example/**
